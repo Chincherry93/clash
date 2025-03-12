@@ -22,6 +22,7 @@ DOMAIN,alt8-mtalk.google.com
 DOMAIN,mtalk.google.com
 DOMAIN,visualstudio.com
 DOMAIN,open-vsx.org
+DOMAIN,genspark.ai
 IP-CIDR,108.177.125.188/32,no-resolve
 IP-CIDR,142.250.10.188/32,no-resolve
 IP-CIDR,142.250.31.188/32,no-resolve

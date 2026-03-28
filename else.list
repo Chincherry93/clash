@@ -49,6 +49,13 @@ DOMAIN-SUFFIX,jina.ai
 DOMAIN-SUFFIX,jina-ai-gmbh.ghost.io
 DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,Tempmail.lol
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,ip-api.com
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,ifconfig.me
+DOMAIN-SUFFIX,ifconfig.io
+DOMAIN-SUFFIX,ipapi.co
+IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,108.177.125.188/32,no-resolve
 IP-CIDR,142.250.10.188/32,no-resolve
 IP-CIDR,142.250.31.188/32,no-resolve

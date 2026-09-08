@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,hongxing.one
 DOMAIN-SUFFIX,oaa2.dbf88.sbs
 DOMAIN-SUFFIX,d222.d222.xyz
 DOMAIN-SUFFIX,magisk.me
+DOMAIN-SUFFIX,hvoyai.com
 IP-CIDR,64.90.2.22/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,108.177.125.188/32,no-resolve

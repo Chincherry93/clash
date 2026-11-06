@@ -70,6 +70,10 @@ DOMAIN-SUFFIX,tryapi.tryai.chat
 DOMAIN-SUFFIX,1for.cc
 DOMAIN-SUFFIX,catbee.online
 DOMAIN-SUFFIX,jiji.cc
+DOMAIN-SUFFIX,whitedream.top
+DOMAIN-SUFFIX,relayhub.cloud
+DOMAIN-SUFFIX,missav.ai
+DOMAIN-SUFFIX,ne.60002.cn
 IP-CIDR,64.90.2.22/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
 IP-CIDR,108.177.125.188/32,no-resolve
